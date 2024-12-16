@@ -1,4 +1,4 @@
--👋 Hi, I'm Sumit Shrestha. Currently persuing BSc(Hons) Computing Degree.
+-👋 Hi, I'm Sumit Shrestha. 
 - 📫 You can reach me through gmail(shresthasumit915@gmail.com)
   
 <!-- - 👀 I’m interested in ...
