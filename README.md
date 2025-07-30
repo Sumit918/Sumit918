@@ -1,5 +1,5 @@
 -👋 Hi, I'm Sumit Shrestha. 
-- 📫 You can reach me through gmail(shresthasumit915@gmail.com)
+- 📫 You can reach me through gmail()
   
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
