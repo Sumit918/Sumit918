@@ -1,4 +1,4 @@
--👋 Hi, I'm Sumit Shrestha. 
+-👋 Hi, I'm . 
 - 📫 You can reach me through gmail()
   
 <!-- - 👀 I’m interested in ...
